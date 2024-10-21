@@ -1,0 +1,12 @@
+Books.Presentation/bin/
+Books.Presentation/obj/
+Books.Presentation/.vs/
+
+Books.Application/bin/
+Books.Application/obj/
+
+Books.Domain/bin/
+Books.Domain/obj/
+
+Books.Infrastructure/bin/
+Books.Infrastructure/obj/
